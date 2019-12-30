@@ -1,1 +1,1 @@
-# sentimental-classifier
+# sentiment-classifier
