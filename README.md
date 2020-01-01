@@ -25,3 +25,8 @@ Review dataframe is used to be a sentiment classifer for machine learning
 12-30-2019 2:30pm - Review point is analized by linear, polynominal regression
 12-30-2019 4:00pm - Sentiment scores are added as a column for description according analysis of review points
 12-30-2019 4:30pm - Description is cleaned and new ranked csv dataframe which is created is ready to use sentiment classifier for machine learning.
+12-31-2019 3:30pm - x and y axis are done and tolkinize text x axis then convert it to a Matrix.
+12-31-2019 4:00pm - Model and Layers are created
+12-31-2019 4:30pm - First Model and Dictionary Json files are created
+12-31-2019 5:30pm - aby changing parameters and layer numbers and types 10 more Model Json files and dictinary json files created for data comperision.
+12-31-2019 6:00pm - Observation is written by testing with different creterias.
